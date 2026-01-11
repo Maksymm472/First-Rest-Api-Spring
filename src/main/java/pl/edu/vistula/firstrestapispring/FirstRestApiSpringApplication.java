@@ -1,4 +1,4 @@
-package pl.edu.vistula.First_Rest_Api_Spring;
+package pl.edu.vistula.firstrestapispring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
